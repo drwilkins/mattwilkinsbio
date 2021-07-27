@@ -30,5 +30,5 @@ oplot <- ggplot(Orange, aes(x = age,
   geom_line() +
   guides(colour = FALSE) +
   theme_bw()
-ggplotly(oplot)
+oplot
 ```
