@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: Earth
+theme: mrw_theme
 day_night: true
 font: 'mrw_cust'
-font_size: L
+font_size: Large
 
 # SEO
 
@@ -40,7 +40,7 @@ appointment_url: 'https://calendly.com/mattwilkinsphd/chat-with-matt-wilkins'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Follow Me
     link: 'https://twitter.com/mattwilkinsbio'
   # - icon: skype
   #   icon_pack: fab
