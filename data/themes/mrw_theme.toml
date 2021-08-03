@@ -5,7 +5,7 @@ name = "mrw_theme"
 light = true
 
 # Primary
-primary = "#cc5a71"
+primary = "#42c299"
 
 # Menu
 menu_primary = "#F6F6F0"
