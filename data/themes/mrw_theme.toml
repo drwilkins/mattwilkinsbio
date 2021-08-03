@@ -5,7 +5,7 @@ name = "mrw_theme"
 light = true
 
 # Primary
-primary = "#1565c0"
+primary = "#cc5a71"
 
 # Menu
 menu_primary = "#F6F6F0"
@@ -22,6 +22,7 @@ link_hover = "#11a3d0"
 link = "#1335cd"
 
 [dark]
+  
   link = "#4cc9f0"
   link_hover = "#3a86ff"
   menu_text_active="#4cc9f0"
