@@ -6,7 +6,7 @@ publication_types:
 authors:
   - RJ Safran
   - KJ McGraw
-  - "*MR Wilkins*"
+  - "MR Wilkins"
   - JK Hubbard
   - "& J Marling"
 publication: PLoS ONE
@@ -19,4 +19,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-08-23T01:54:32.132Z
+projects:
+  - research
 ---
