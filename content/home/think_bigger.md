@@ -27,6 +27,12 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 <div class="overlay-text" >
-think<br/>bigger.
-<div class="learn-everything" >learn&nbsp;<br/>everything.</div>
+
+  <div class="think-bigger" >
+  think<br/>bigger.
+  </div>
+  <div class="learn-everything" >
+  learn&nbsp;<br/>everything.</div>
+  </div>
+
 </div>

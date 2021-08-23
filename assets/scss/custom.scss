@@ -15,22 +15,34 @@
 .overlay-text{
   color: #f0f4ff !important;
   font-size: 7vw !important;
-  margin: 10vh 40vw 10vh 10vw !important;
+  //margin: 10vh 40vw 10vh 10vw !important;
   
   @media (max-width: 600px){
-  color: #f0f4ff !important;
-  font-size: 12vw !important;
-  margin: 0 !important;
-  padding: 10vh 1rem 0 0.5rem!important;
-  }
+    font-size: 12vw !important;
+    }
+    
+  .think-bigger{
+    padding: 10vh 0 0 20% !important;
+    @media (max-width: 600px){
+      margin: 0 !important;
+      padding: 10vh 1rem 0 0.5rem!important;
+      }
+    }
   
   .learn-everything{
-  text-align: right !important;
-  padding: 60vh 0 1rem 8rem !important; 
-   @media (max-width: 600px){
-  padding: 60vh 1rem 1rem 0.5rem !important; 
-  }
+    color: #f0f4ff !important;
+    text-align: right !important;
+    padding-top: 60vh !important; 
+     @media (max-width: 600px){
+      text-align: right !important;
+      padding: 60vh 1rem 1rem 0.5rem !important; 
+      } 
+    
+    }
+  
+  
+  
 }
-}
+
 
 
