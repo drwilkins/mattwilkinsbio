@@ -20,14 +20,13 @@ design:
     image: cuban-tree-frog-and-web.jpg
     image_darken: 1.0
     image_parallax: true
-    image_position: center
+    image_position: 60%
     image_size: cover
     
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-<div style="color: #f0f4ff; font-size: 12vh;margin: 10vh 40vw 10vh 10vw;">
+<div style=" color: #f0f4ff; font-size: 7vw;margin: 10vh 40vw 10vh 10vw;">
 think bigger.
 <div style="padding: 50vh 0 1rem 8rem; ">learn everything.</div>
 </div>
-
