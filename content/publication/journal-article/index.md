@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "TREE Paper"
 authors:
 - admin
 - Robert Ford
