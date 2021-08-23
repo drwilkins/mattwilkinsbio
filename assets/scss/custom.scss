@@ -19,12 +19,13 @@
   
   @media (max-width: 600px){
     font-size: 12vw !important;
+    margin: 0 !important;
+    transition: margin 1.5s, padding 1.5s;
     }
     
   .think-bigger{
     padding: 10vh 0 0 20% !important;
     @media (max-width: 600px){
-      margin: 0 !important;
       padding: 10vh 1rem 0 0.5rem!important;
       }
     }
