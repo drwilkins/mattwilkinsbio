@@ -43,12 +43,14 @@
       text-align: right !important;
       padding: 20rem 0.5rem 1rem 0.5rem !important; 
       } 
-    
     }
-  
-  
-  
 }
 
+.alert-note{
+  background: radial-gradient(circle, rgba(249,249,249,0.85) 57%, rgba(240,244,255,0.5) 100%);
+  h3{
+    color: #1976d2;
+  }
+}
 
 
