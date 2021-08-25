@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Female Barn Swallows Sing! The Case for Galactic Polymath
 
-event: Animal Behaviour Society Virtual Conference
-event_url: https://example.org
+event: 2021 Animal Behaviour Society Virtual Conference
+event_url: https://www.animalbehaviorsociety.org/web/index.php
 
 # location: Wowchemy HQ
 # address:
@@ -12,8 +12,9 @@ event_url: https://example.org
 #   postcode: '94305'
 #   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A short talk describing neglected female barn swallow song and my motivation for starting an education studio to connect scientists to K-12 classrooms.
+abstract: "New Science: A common assumption in the literature is that sexual dimorphism in signals is driven by female mate preference for elaborate male traits. In contrast, we report female song for the first time in a widely studied bird (barn swallows) and show that contemporary selection on female, not male, traits predicts patterns of dimorphism across acoustic and visual phenotypes. 
+Broader Impacts: Despite receiving much greater focus, science outreach efforts usually involve a lot of heavy lifting for individual researchers and little return on investment. Particularly in the potentially high impact K-12 formal school setting, where every citizen is held accountable for material to earn letter grades, scientists have little access to classrooms or understanding of the complex standards requirements of teachers. In my unique postdoc position as the Resident Scientist at a Nashville middle school, I get to dedicate most of my time to building and teaching curricula with teachers. I will outline 4 interdisciplinary, standards-aligned lessons based on the above work and describe how I plan to make it orders of magnitude easier for scientists to achieve real impact in formal classrooms."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -42,7 +43,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://vimeo.com/448000812"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,4 +61,4 @@ projects:
 - internal-project
 ---
 
-{{}}
+{{< vimeo 448000812 >}}
