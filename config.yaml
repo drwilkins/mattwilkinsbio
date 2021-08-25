@@ -62,6 +62,7 @@ imaging:
   quality: 75
   anchor: smart
 timeout: 600000
+time: false
 taxonomies:
   tag: tags
   category: categories
