@@ -76,7 +76,7 @@ Galactic Polymath is an effort to break out of the bubble and to build long-term
 1. Publicly-funded research findings should be made available *to everyone for free*, and in a way that's relevant to people's lives. 
 2. *Every student has a right to high quality education materials.* 
 
-I want to live in a world where critical thinking and curiosity are as essential as breathing. I also love (re)playing The Witcher 3, cooking, and making people laugh.
+I want to live in a world where critical thinking and curiosity are as essential as breathing. I also love creative writing, cooking, and making people laugh.
 
 
 {{< icon name="download" pack="fas" >}} See my full {{< staticref "https://docs.google.com/document/d/1Ia35Iy5Pu1e4D0IJ6SdUMuJaomY-h8yEMPtR-UWV1oM/preview" "newtab" >}}CV{{< /staticref >}}.

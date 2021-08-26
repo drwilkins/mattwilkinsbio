@@ -1,6 +1,6 @@
 ---
 title: Popular Press
-summary: I have written a couple of pieces about plastic pollution and science communication. I plan to do more of this going forward.
+summary: I've really only written one major pop press article, but I got some stuff in the works. Stay tuned.
 tags:
 #- popular press
 date: "2021-08-22"
@@ -33,4 +33,4 @@ url_video: ""
 
 
 ---
-I have written a few pieces about plastic pollution and science communication. I plan to do more of this going forward.
+I've really only written one major pop press article, but I got some stuff in the works. Stay tuned.
