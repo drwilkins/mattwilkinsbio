@@ -22,7 +22,7 @@ publication_short: ""
 abstract: My article on the Scientific American Observations blog describing the scale of our plastic problem and how industrial lobbying and misdirection has led the US public to misplace sustainability efforts on recycling over plastic reduction and reuse.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - popular press
@@ -44,7 +44,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [Dave and Les Jacobs Getty Images](https://www.gettyimages.com/license/565878653)' 
+  caption: 'Image credit: [Dave and Les Jacobs Getty Images](https://www.gettyimages.com/license/565878653)'
   focal_point: ""
   preview_only: false
 
@@ -54,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-
+- popular-press
 
 ---
 > The only thing worse than being lied to is not knowing you’re being lied to. It’s true that plastic pollution is a huge problem, of planetary proportions. And it’s true we could all do more to reduce our plastic footprint. The lie is that blame for the plastic problem is wasteful consumers and that changing our individual habits will fix it...
@@ -64,9 +64,7 @@ projects:
 <br/>
 {{% callout note %}}
 ### If you want to do something about this:
-- Urge your US representatives to support the [Break Free from Plastic Pollution Bill](https://www.breakfreefromplastic.org/pollution-act/). 
-- Fight [plastic preemption laws](https://www.plasticbaglaws.org/preemption) that are sweeping the nation (and prevent local communities from regulating pollution in their backyards) 
+- Urge your US representatives to support the [Break Free from Plastic Pollution Bill](https://www.breakfreefromplastic.org/pollution-act/).
+- Fight [plastic preemption laws](https://www.plasticbaglaws.org/preemption) that are sweeping the nation (and prevent local communities from regulating pollution in their backyards)
 - If you're in Tennessee, support the [Tennessee CLEAN Act](https://tennesseecleanact.org/)
 {{% /callout %}}
-
-

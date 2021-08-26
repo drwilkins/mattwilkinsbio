@@ -1,8 +1,11 @@
 ---
 title: Research
-summary: Though I have pivoted out of a traditional academic track, I am still continuing some work from my PhD and postdocs. Research topics include evolution of birdsong, complex sexual communication, speciation, and an in prep manuscript on interdisciplinary K-12 education.
+summary: Though I have pivoted out of a traditional academic track, I am still continuing some work from my PhD and postdocs. 
 tags:
-- Research
+- birdsong
+- complex sexual communication
+- speciation
+- interdisciplinary K-12 ed
 lastmod: "2021-08-22"
 share: false
 # Optional external URL for project (replaces project detail page).
@@ -21,7 +24,7 @@ links:
   icon_pack: fas
   url: https://scholar.google.com/citations?user=MZKGDvAAAAAJ&hl=en
   name: See papers and citations
-  
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -40,4 +43,3 @@ url_video: ""
 My previous and ongoing research involves multimodal sexual selection, acoustic divergence, and speciation. For my PhD, I studied barn swallows in North America, Europe, and Asia to quantify variation in feather ornaments and song resulting from different targets of sexual selection across populations. As a postdoc at the University of Nebraska, I extended this work by developing a 'phenotype network' approach for visualizing and analyzing the functional evolution of sexual communication signals in barn swallows and Schizocosa wolf spiders.
 
 </div>
-
