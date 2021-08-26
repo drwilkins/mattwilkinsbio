@@ -2,7 +2,6 @@
 title: Fiction
 summary: I like to write short science fiction in my spare time. So far, I've only published one. Please let me know on Twitter if you enjoy it :)
 tags:
-- Research
 lastmod: "2021-08-22"
 share: false
 # Optional external URL for project (replaces project detail page).

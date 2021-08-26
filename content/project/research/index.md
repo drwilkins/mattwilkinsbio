@@ -34,10 +34,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-<div style="display: flex; ">
-<img src="featured.jpg" style="margin: 0;align-self:baseline;max-width: 40vh;float: left;padding: 0px 20px 30px 0;"/>
+<div style="display: block; ">
+<img src="featured.jpg" style="margin: 0;align-self:baseline;max-width: 45%;float: right;padding: 0 0 10px 40px;"/>
 
-My PhD research
+My previous and ongoing research involves multimodal sexual selection, acoustic divergence, and speciation. For my PhD, I studied barn swallows in North America, Europe, and Asia to quantify variation in feather ornaments and song resulting from different targets of sexual selection across populations. As a postdoc at the University of Nebraska, I extended this work by developing a 'phenotype network' approach for visualizing and analyzing the functional evolution of sexual communication signals in barn swallows and Schizocosa wolf spiders.
 
 </div>
 
