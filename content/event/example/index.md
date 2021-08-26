@@ -13,14 +13,13 @@ event_url: https://www.animalbehaviorsociety.org/web/index.php
 #   country: United States
 
 summary: A short talk describing neglected female barn swallow song and my motivation for starting an education studio to connect scientists to K-12 classrooms.
-abstract: "New Science: A common assumption in the literature is that sexual dimorphism in signals is driven by female mate preference for elaborate male traits. In contrast, we report female song for the first time in a widely studied bird (barn swallows) and show that contemporary selection on female, not male, traits predicts patterns of dimorphism across acoustic and visual phenotypes. 
-Broader Impacts: Despite receiving much greater focus, science outreach efforts usually involve a lot of heavy lifting for individual researchers and little return on investment. Particularly in the potentially high impact K-12 formal school setting, where every citizen is held accountable for material to earn letter grades, scientists have little access to classrooms or understanding of the complex standards requirements of teachers. In my unique postdoc position as the Resident Scientist at a Nashville middle school, I get to dedicate most of my time to building and teaching curricula with teachers. I will outline 4 interdisciplinary, standards-aligned lessons based on the above work and describe how I plan to make it orders of magnitude easier for scientists to achieve real impact in formal classrooms."
+abstract: A short talk describing neglected female barn swallow song and my motivation for starting an education studio to connect scientists to K-12 classrooms.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-07-30"
 # date_end: "2030-06-01T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-08-24"
@@ -34,6 +33,7 @@ featured: false
 image:
   caption: ''
   focal_point: Right
+  preview_only: true
 
 links:
 - icon: twitter
