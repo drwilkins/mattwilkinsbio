@@ -239,6 +239,9 @@
 - id: podcasts
   translation: Podcasts
 
+- id: press
+  translation: Press
+
 - id: videos
   translation: Videos
 

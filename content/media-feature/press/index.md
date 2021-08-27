@@ -1,18 +1,17 @@
 ---
-title: Podcasts
+title: Press Coverage
 summary:
 tags:
 
-date: "2019-02-12"
+date: "2021-08-26"
 
 # Optional external URL for project (replaces project detail page).
 external_link:
 
 image:
-  alt: 99 Percent invisible logo; a yellow square in a grid of black squares.
+  alt:
   focal_point: Smart
   preview_only: true
-
 #links:
 #- icon: paper-plane
 #  icon_pack: fas
@@ -28,4 +27,4 @@ image:
 #  name: Subscribe to GP YouTube
 
 ---
-I've been invited on a few podcasts in my capacity as a  science communicator and a biologist trying to sound the alarm bell about the plastic pollution problem.
+Interviews and news coverage of me, my science, or my work as a science communicator and educator.

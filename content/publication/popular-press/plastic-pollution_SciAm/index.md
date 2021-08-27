@@ -55,7 +55,6 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - popular-press
-- podcast
 
 
 ---
