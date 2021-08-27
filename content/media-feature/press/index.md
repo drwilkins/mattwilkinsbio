@@ -1,5 +1,5 @@
 ---
-title: Press Coverage
+title: Press
 summary:
 tags:
 
