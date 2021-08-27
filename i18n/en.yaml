@@ -148,6 +148,13 @@
 - id: book_appointment
   translation: Book an appointment
 
+# Media-coverage details
+
+- id: outlet
+  translation: outlet
+
+
+
 # Publication/Event details
 
 - id: abstract
@@ -228,6 +235,15 @@
 
 - id: authors
   translation: Authors
+
+- id: podcasts
+  translation: Podcasts
+
+- id: videos
+  translation: Videos
+
+- id: galleries
+  translation: Photo Galleries
 
 # Search
 

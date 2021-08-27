@@ -55,6 +55,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - popular-press
+- podcast
+
 
 ---
 > The only thing worse than being lied to is not knowing you’re being lied to. It’s true that plastic pollution is a huge problem, of planetary proportions. And it’s true we could all do more to reduce our plastic footprint. The lie is that blame for the plastic problem is wasteful consumers and that changing our individual habits will fix it...
