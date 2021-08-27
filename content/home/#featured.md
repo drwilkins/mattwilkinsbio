@@ -1,7 +1,10 @@
 ---
+# Not working with Press items currently
+
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
+active: false
 
 # This file represents a page section.
 headless: true
@@ -9,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Recent Media Coverage
+title: "Latest Press"
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: press
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 1
   # Filter on criteria
   filters:
     author: ""

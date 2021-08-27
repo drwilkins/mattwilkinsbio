@@ -4,13 +4,6 @@ title: Female Barn Swallows Sing! The Case for Galactic Polymath
 event: 2021 Animal Behaviour Society Virtual Conference
 event_url: https://www.animalbehaviorsociety.org/web/index.php
 
-# location: Wowchemy HQ
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
 
 summary: A short talk describing neglected female barn swallow song and my motivation for starting an education studio to connect scientists to K-12 classrooms.
 abstract: A short talk describing neglected female barn swallow song and my motivation for starting an education studio to connect scientists to K-12 classrooms.
@@ -36,10 +29,6 @@ image:
   preview_only: true
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -58,7 +47,7 @@ url_video: "https://vimeo.com/448000812"
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+
 ---
 
 {{< vimeo 448000812 >}}

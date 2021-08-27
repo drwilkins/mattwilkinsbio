@@ -7,21 +7,16 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
+  - name: Writing
+    url: '#writing'
+    weight: 18
+  - name: Press
+    url: '#media-features'
+    weight: 30
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 40
   - name: Talks
     url: '#talks'
-    weight: 40
-  - name: Writing
-    url: '#featured'
-    weight: 50
-  - name: In the Media
-    url: press/
     weight: 60
-  - name: Contact
-    url: '#contact'
-    weight: 70
+

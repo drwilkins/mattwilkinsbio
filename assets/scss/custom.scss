@@ -63,4 +63,23 @@ blockquote{
   //color: white;
 }
 
+//.projects-container{
+//  justify-items: center;
+//  .project-card{
+    
+//  }
+//}
+
+.col-12{
+  img{  
+      //max-width: 80%;
+      max-height: 50vh;
+    }
+    
+  @media (max-width: 600px){
+    padding-left: 5vw !important;
+    padding-right: 5vw !important;
+    
+  }
+}
 

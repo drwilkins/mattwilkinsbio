@@ -13,6 +13,8 @@
     {{ $title = i18n "publications" }}
   {{ else if eq .Type "podcast" }}
     {{ $title = i18n "podcasts" }}
+  {{ else if eq .Type "press" }}
+    {{ $title = i18n "press" }}
   {{ else if eq .Type "video" }}
     {{ $title = i18n "videos" }}
   {{end}}
