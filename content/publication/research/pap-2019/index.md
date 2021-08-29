@@ -38,13 +38,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:09.232616Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Ecology and Evolution*'
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.5629 https://onlinelibrary.wiley.com/doi/10.1002/ece3.5629
+url_pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.5629
 doi: 10.1002/ece3.5629
 ---

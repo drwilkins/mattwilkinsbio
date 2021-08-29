@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Sex‐linked genetic diversity and differentiation in a globally distributed
-  avian species complex
+title: Sex‐linked genetic diversity and differentiation in a globally distributed avian species complex
 subtitle: ''
 summary: ''
 authors:
@@ -51,7 +50,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:10.064620Z'
 publication_types:
@@ -79,6 +78,6 @@ abstract: Sex chromosomes often bear distinct patterns of genetic variation due 
   gene flow and demography shape sex-linked genetic diversity and underlines the relevance
   of the Z chromosome in speciation.
 publication: '*Molecular Ecology*'
-url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/mec.15885
+url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.15885?casa_token=yKdacb4qxvwAAAAA:pB8sC9Go_c2TJqNjVPGEucUstsasZc9p0RVDz882tm18N670llnAt2g8JlpkojJfiOSAdMfXnN3-
 doi: 10.1111/mec.15885
 ---

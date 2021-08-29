@@ -34,7 +34,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:08.673141Z'
 publication_types:
@@ -59,6 +59,6 @@ abstract: Animal communication is often structurally complex and dynamic, with s
   the importance of systems-based methodologies for understanding the dynamic nature
   of complex signals.
 publication: '*Evolution*'
-url_pdf: http://doi.wiley.com/10.1111/evo.13448 https://onlinelibrary.wiley.com/doi/10.1111/evo.13448
+url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/evo.13448?casa_token=fHDieZK7CJcAAAAA:j_6YIPFi_HmQ1-OFfUngiQU0hCZgODuVNpVPQ2tnrw9y--fltnNjHtllEWMuyaZDNQxMF9gKVvhC
 doi: 10.1111/evo.13448
 ---

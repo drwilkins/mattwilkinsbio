@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Genomic variation across two barn swallow hybrid zones reveals traits associated
-  with divergence in sympatry and allopatry
+title: Genomic variation across two barn swallow hybrid zones reveals traits associated with divergence in sympatry and allopatry
 subtitle: ''
 summary: ''
 authors:
@@ -38,7 +37,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:08.107724Z'
 publication_types:
@@ -66,6 +65,6 @@ abstract: Hybrid zones are geographic regions where isolating barriers between d
   important additional roles for evolutionary history and ecology in shaping variation
   in the extent hybridization between closely related pairs of subspecies.
 publication: '*Molecular Ecology*'
-url_pdf: http://doi.wiley.com/10.1111/mec.14276 https://onlinelibrary.wiley.com/doi/10.1111/mec.14276
+url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.14276?casa_token=pm48VtLRHusAAAAA:arSXjg4dHUIr_jMQqweX2KwCMbl8hK8B9MHlaaOBX0uBQvZUeAjKLhJEcqyhwc5zO1aqGkRGOrzm
 doi: 10.1111/mec.14276
 ---

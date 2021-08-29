@@ -37,7 +37,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:07.743461Z'
 publication_types:
@@ -64,6 +64,7 @@ abstract: 'Sexual selection plays a key role in the diversification of numerous 
   edge, this is the first study to relate direct measures of the strength and targets
   of sexual selection to phenotypic divergence among closely related wild populations.'
 publication: '*Journal of Evolutionary Biology*'
-url_pdf: http://doi.wiley.com/10.1111/jeb.12965 https://onlinelibrary.wiley.com/doi/10.1111/jeb.12965
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/jeb.12965
+url_dataset: https://datadryad.org/stash/dataset/doi:10.5061/dryad.8br54
 doi: 10.1111/jeb.12965
 ---

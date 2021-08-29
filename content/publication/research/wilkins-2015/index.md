@@ -34,7 +34,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:06.446224Z'
 publication_types:
@@ -53,7 +53,7 @@ abstract: Complex signals, involving multiple components within and across modal
   researchers a more nuanced view of trait clustering patterns that informs new hypotheses
   about the evolution of communication systems.
 publication: '*Proceedings of the Royal Society B: Biological Sciences*'
-url_pdf: http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2015.1574
-  https://royalsocietypublishing.org/doi/10.1098/rspb.2015.1574
+url_pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2015.1574
+url_dataset: https://sites.google.com/site/wilkinsbioresearch/publications/pdfs/004-Supplementary%20Materials_Wilkins%20ProcB_2015.zip?attredirects=0&d=1
 doi: 10.1098/rspb.2015.1574
 ---

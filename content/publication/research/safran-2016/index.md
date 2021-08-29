@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Genome‐wide differentiation in closely related populations: the roles of selection
-  and geographic isolation'
+title: 'Genome‐wide differentiation in closely related populations: the roles of selection and geographic isolation'
 subtitle: ''
 summary: ''
 authors:
@@ -48,7 +47,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:06.766013Z'
 publication_types:
@@ -77,6 +76,6 @@ abstract: Population divergence in geographic isolation is due to a combination 
   role in shaping population-level differentiation in this group of closely related
   populations.
 publication: '*Molecular Ecology*'
-url_pdf: http://doi.wiley.com/10.1111/mec.13740 https://onlinelibrary.wiley.com/doi/10.1111/mec.13740
+url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.13740?casa_token=SaL3FNC8GowAAAAA:flrvfypfCR8R8rK2tm2smQPjf_AqqnZqzGyIjNyIs74JPmVOuDYlNZmXVNjsUTv2fBBGH7vWoU2q
 doi: 10.1111/mec.13740
 ---

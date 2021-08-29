@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The maintenance of phenotypic divergence through sexual selection: An experimental
-  study in barn swallows Hirundo rustica'
+title: 'The maintenance of phenotypic divergence through sexual selection: An experimental study in barn swallows Hirundo rustica'
 subtitle: ''
 summary: ''
 authors:
@@ -41,7 +40,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:07.414836Z'
 publication_types:
@@ -66,6 +65,6 @@ abstract: 'Previous studies have shown that sexual signals can rapidly diverge a
   an important aspect of the speciation process. This article is protected by copyright.
   All rights reserved'
 publication: '*Evolution*'
-url_pdf: http://doi.wiley.com/10.1111/evo.13014
+url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/evo.13014?casa_token=JwIzEOW3J-IAAAAA:fr4CfHTClqkUqd8mKlWzwtFCRSP25eqxB-3p-pOrr5eVFaQw7ovwZTInvwFJNZvkLCmGYH-7bPTx
 doi: 10.1111/evo.13014
 ---

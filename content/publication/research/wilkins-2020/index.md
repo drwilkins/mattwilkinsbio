@@ -37,7 +37,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:09.801430Z'
 publication_types:
@@ -67,6 +67,11 @@ abstract: Understanding the patterns and processes related to sexual dimorphism 
   a better understanding of sex differences and dimorphism, we require comprehensive
   studies that measure the same traits in males and females and their fitness consequences.
 publication: '*Animal Behaviour*'
-url_pdf: https://doi.org/10.1016/j.anbehav.2020.07.018 https://linkinghub.elsevier.com/retrieve/pii/S000334722030213X
+url_pdf: https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf
+url_video: https://vimeo.com/424642268
+url_dataset: https://github.com/drwilkins/femaleSongInBARS
 doi: 10.1016/j.anbehav.2020.07.018
 ---
+#### My ABS talk about this paper:
+<hr/>
+{{< cite page="/event/ABS-2020" view="2" >}}

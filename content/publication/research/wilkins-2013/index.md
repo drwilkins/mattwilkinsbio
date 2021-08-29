@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:05.871250Z'
 publication_types:
@@ -51,6 +51,7 @@ abstract: Acoustic signals mediate mate choice, resource defense, and species re
   to acoustic divergence, predictions for cases where these processes lead to speciation,
   and how their relative importance plays out over evolutionary time.
 publication: '*Trends in Ecology & Evolution*'
-url_pdf: http://linkinghub.elsevier.com/retrieve/pii/S0169534712002637 https://linkinghub.elsevier.com/retrieve/pii/S0169534712002637
+url_pdf: https://www.researchgate.net/profile/Matthew-Wilkins/publication/233393321_Evolutionary_divergence_in_acoustic_signals_Causes_and_consequences/links/5c64325aa6fdccb608c0faf6/Evolutionary-divergence-in-acoustic-signals-Causes-and-consequences.pdf
+url_dataset: https://sites.google.com/site/wilkinsbioresearch/publications/pdfs/002-Supplementary%20Table_Wilkins%20TREE_2013.docx?attredirects=0&d=1
 doi: 10.1016/j.tree.2012.10.002
 ---

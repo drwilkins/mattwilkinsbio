@@ -39,7 +39,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 publishDate: '2021-08-26T02:08:07.119929Z'
 publication_types:
@@ -75,6 +75,6 @@ abstract: 'Diverging populations often shift patterns of signal use—a process 
   of their use as signals, divergence in other phenotypic traits may be associated
   with shifts in their information content.'
 publication: '*Frontiers in Ecology and Evolution*'
-url_pdf: http://journal.frontiersin.org/article/10.3389/fevo.2016.00056/full http://journal.frontiersin.org/Article/10.3389/fevo.2016.00056/abstract
+url_pdf: https://www.frontiersin.org/articles/10.3389/fevo.2016.00056/full
 doi: 10.3389/fevo.2016.00056
 ---

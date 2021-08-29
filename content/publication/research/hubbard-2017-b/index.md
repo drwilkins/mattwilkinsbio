@@ -36,7 +36,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
+projects:
 - research
 
 publishDate: '2021-08-26T02:08:08.411938Z'
@@ -44,6 +44,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*The Auk*'
-url_pdf: http://www.bioone.org/doi/10.1642/AUK-16-99.1
+url_pdf: https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1555&context=bioscifacpub
 doi: 10.1642/AUK-16-99.1
 ---
