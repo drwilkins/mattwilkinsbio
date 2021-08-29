@@ -65,11 +65,12 @@ blockquote{
   //color: white;
 }
 
-
+// customize featured image appearance and size
 .col-12{
   img{  
       //max-width: 80%;
       max-height: 50vh;
+      border: 2px solid rgba(128,128,128,.3);
     }
     
   @media (max-width: 600px){
