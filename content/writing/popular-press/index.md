@@ -1,6 +1,6 @@
 ---
 title: Popular Press
-summary: I've really only written one major pop press article, but I got some stuff in the works. Stay tuned.
+summary: I more stuff in the works. Stay tuned.
 tags:
 #- popular press
 date: "2021-08-22"
@@ -33,4 +33,4 @@ url_video: ""
 
 
 ---
-I've really only written one major pop press article, but I got some stuff in the works. Stay tuned.
+I have some more stuff in the works related to my songbird research and K-12 education. Stay tuned.

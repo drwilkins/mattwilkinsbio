@@ -59,7 +59,7 @@ abstract: Divergence in acoustic signals plays an important role in the producti
   recognized barn swallow subspecies. Temporal traits describing terminal trills were
   the most distinct song traits among subspecies, adding to growing evidence that
   trills are important in speciation among many birds, insects and fish. Across a
-  $∼$6000 km transect of Russia, acoustic distance was predicted by genetic and geographical
+  ∼6000 km transect of Russia, acoustic distance was predicted by genetic and geographical
   distance, but not climatic distance. We also found no reproductive character displacement
   of song traits in a contact zone between H. r. rustica and H. r. tytleri. Based
   on patterns discovered in this study, we infer an important role of sexual selection,
