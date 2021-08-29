@@ -92,3 +92,8 @@ blockquote{
 .article-container h1{
   font-size: 1.2em;
 }
+
+//Make Sharebox aligned better
+.share{
+  justify-content: flex-start !important;
+}
