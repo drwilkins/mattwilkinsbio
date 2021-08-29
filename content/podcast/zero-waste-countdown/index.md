@@ -1,38 +1,38 @@
 ---
-title: "DO “ENVIRONMENTALLY RESPONSIBLE” PRODUCTS HELP THE PLANET? OR DO THEY JUST GET US TO BUY MORE STUFF?"
+title: "28. It’s Not You, It’s The System"
 
-event: ensia
-event_url: https://ensia.com/features/environmentally-responsible-products-consumerism/
+event: The Zero Waste Countdown Podcast
+event_url: https://zerowastecountdown.podbean.com/e/28-its-not-you-its-the-system/
 
-summary: I was interviewed by [Stephanie Parker](http://www.twitter.com/sparkersays) for this thought-provoking piece about corporate greenwashing and the challenges of being a sustainable consumer.
+
+summary: Laura Nash had me on her podcast to talk about the systemic problems of plastic pollution.
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-08-22"
+date: "2019-02-12"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-08-24"
+publishDate: "2018-10-9"
 
 authors: []
-tags:
-- plastic pollution
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: '© iStockphoto.com/ThitareeSarmkasat'
+  caption: ''
   focal_point: Right
   preview_only: false
 
 links:
-- icon: fa-soundcloud
-  icon_pack: fab
+- icon: fa-podcast
+  icon_pack: fas
   name: Listen
-  url: https://www.wnyc.org/story/recycling-wont-eradicate-plastic-pollution/
+  url: https://zerowastecountdown.podbean.com/e/28-its-not-you-its-the-system/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -51,14 +51,13 @@ url_video:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- press
-
+- podcast
 ---
-I was interviewed by Stephanie Parker for a piece about the challenges of being a green consumer.
+I had a great time chatting with Laura Nash about the challenges of being green and why we should not accept the status quo for recycling or the blame for the plastic pollution problem.
 <br/>
-[{{< icon name="external-link-alt" pack="fas" >}} Read the piece](https://ensia.com/features/environmentally-responsible-products-consumerism/)
+[{{< icon name="external-link-alt" pack="fas" >}} Listen to the episode](https://zerowastecountdown.podbean.com/e/28-its-not-you-its-the-system/)  
 <br/>
 
-#### The article that got me this interview:
+#### The article that got me on the show:
 <hr>
 {{< cite page="/publication/popular-press/plastic-pollution_SciAm" view="2" >}}

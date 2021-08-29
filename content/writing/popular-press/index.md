@@ -1,6 +1,6 @@
 ---
 title: Popular Press
-summary: I more stuff in the works. Stay tuned.
+summary: I have more stuff in the works. Stay tuned.
 tags:
 #- popular press
 date: "2021-08-22"

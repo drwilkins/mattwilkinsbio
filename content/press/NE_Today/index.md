@@ -1,15 +1,16 @@
 ---
-title: "DO “ENVIRONMENTALLY RESPONSIBLE” PRODUCTS HELP THE PLANET? OR DO THEY JUST GET US TO BUY MORE STUFF?"
+title: "Wilkins’ global trek maps song of the barn swallow"
 
-event: ensia
-event_url: https://ensia.com/features/environmentally-responsible-products-consumerism/
+event: Nebraska Today
+event_url: https://news.unl.edu/newsrooms/today/article/wilkins-global-trek-maps-song-of-the-barn-swallow/
 
-summary: I was interviewed by [Stephanie Parker](http://www.twitter.com/sparkersays) for this thought-provoking piece about corporate greenwashing and the challenges of being a sustainable consumer.
+summary: Nebraska Today profiled more research on global song divergence in barn swallows.
+
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-08-22"
+date: "2018-04-13"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -24,15 +25,15 @@ tags:
 featured: false
 
 image:
-  caption: '© iStockphoto.com/ThitareeSarmkasat'
+  caption: ''
   focal_point: Right
   preview_only: false
 
 links:
-- icon: fa-soundcloud
+- icon: fa-readme
   icon_pack: fab
-  name: Listen
-  url: https://www.wnyc.org/story/recycling-wont-eradicate-plastic-pollution/
+  name: Read
+  url: https://news.unl.edu/newsrooms/today/article/wilkins-global-trek-maps-song-of-the-barn-swallow/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -54,11 +55,11 @@ projects:
 - press
 
 ---
-I was interviewed by Stephanie Parker for a piece about the challenges of being a green consumer.
-<br/>
-[{{< icon name="external-link-alt" pack="fas" >}} Read the piece](https://ensia.com/features/environmentally-responsible-products-consumerism/)
+> About 100,000 years ago, the barn swallow — that hairpin-turning, insect-snagging, eave-nesting icon of rural regions — took wing from northern Africa to begin blanketing the Northern Hemisphere...
+
+[{{< icon name="external-link-alt" pack="fas" >}} Read the piece](https://www.news.unl.edu/newsrooms/today/article/wilkins-global-trek-maps-song-of-the-barn-swallow)  
 <br/>
 
-#### The article that got me this interview:
+#### The study:
 <hr>
-{{< cite page="/publication/popular-press/plastic-pollution_SciAm" view="2" >}}
+{{< cite page="/publication/research/wilkins-2018" view="2" >}}

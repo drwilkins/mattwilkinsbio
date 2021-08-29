@@ -27,4 +27,4 @@ image:
 #  name: Subscribe to GP YouTube
 
 ---
-Interviews and news coverage of me, my science, or my work as a science communicator and educator.
+Interviews and news coverage stemming from my work as a biologist, science communicator and educator.

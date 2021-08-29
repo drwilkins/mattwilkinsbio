@@ -1,15 +1,16 @@
 ---
-title: "DO “ENVIRONMENTALLY RESPONSIBLE” PRODUCTS HELP THE PLANET? OR DO THEY JUST GET US TO BUY MORE STUFF?"
+title: "An Earth Day Q&A With Scientist/Photographer Matt Wilkins"
 
-event: ensia
-event_url: https://ensia.com/features/environmentally-responsible-products-consumerism/
+event: KEH Camera Blog
+event_url: https://www.keh.com/blog/an-earth-day-q-and-a-with-scientist-photographer-matt-wilkins
 
-summary: I was interviewed by [Stephanie Parker](http://www.twitter.com/sparkersays) for this thought-provoking piece about corporate greenwashing and the challenges of being a sustainable consumer.
+summary: KEH Camera, which sells used cameras and equipment, interviewed me and shared some of my photos.
+
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-08-22"
+date: "2019-04-22"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -24,15 +25,15 @@ tags:
 featured: false
 
 image:
-  caption: '© iStockphoto.com/ThitareeSarmkasat'
+  caption: ' '
   focal_point: Right
   preview_only: false
 
 links:
-- icon: fa-soundcloud
+- icon: fa-readme
   icon_pack: fab
-  name: Listen
-  url: https://www.wnyc.org/story/recycling-wont-eradicate-plastic-pollution/
+  name: Read
+  url: https://www.keh.com/blog/an-earth-day-q-and-a-with-scientist-photographer-matt-wilkins
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -54,11 +55,14 @@ projects:
 - press
 
 ---
-I was interviewed by Stephanie Parker for a piece about the challenges of being a green consumer.
-<br/>
-[{{< icon name="external-link-alt" pack="fas" >}} Read the piece](https://ensia.com/features/environmentally-responsible-products-consumerism/)
+> It's Earth Day, so it's the perfect opportunity to talk about environmental protection as it relates to photography. Of course, the concept of conservation is a big one for us—we've built our company on the reuse of photography equipment, helping countless used cameras, lenses and accessories continue their story through our 40 years in business...
+
+
 <br/>
 
-#### The article that got me this interview:
+[{{< icon name="external-link-alt" pack="fas" >}} Read the piece](https://www.keh.com/blog/an-earth-day-q-and-a-with-scientist-photographer-matt-wilkins)  
+<br/>
+
+#### The article that got me on the show:
 <hr>
 {{< cite page="/publication/popular-press/plastic-pollution_SciAm" view="2" >}}
