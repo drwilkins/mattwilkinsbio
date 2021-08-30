@@ -7,16 +7,15 @@ main:
   - name: About
     url: '#about'
     weight: 10
+  - name: GP Projects
+    url: '#gp-projects'
+    weight: 15
   - name: Writing
     url: '#writing'
-    weight: 18
+    weight: 20
   - name: Press
     url: '#media-features'
     weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 40
   - name: Talks
     url: '#talks'
     weight: 60
-
