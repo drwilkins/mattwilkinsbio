@@ -26,8 +26,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'cover photo by Dr. Jeff Mitton'
+  focal_point: 'right'
   preview_only: false
 
 # Projects (optional).
@@ -55,3 +55,4 @@ url_pdf: https://www.researchgate.net/profile/Matthew-Wilkins/publication/233393
 url_dataset: https://sites.google.com/site/wilkinsbioresearch/publications/pdfs/002-Supplementary%20Table_Wilkins%20TREE_2013.docx?attredirects=0&d=1
 doi: 10.1016/j.tree.2012.10.002
 ---
+This was the first chapter of my dissertation and the first time I was lead author on a scientific paper. I spent about 2 years doing the literature review, synthesis, and revision of the paper. It has by far had the greatest impact (in terms of citations) of any of my published research.
