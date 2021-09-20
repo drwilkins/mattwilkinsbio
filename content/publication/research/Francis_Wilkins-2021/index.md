@@ -3,7 +3,7 @@
 
 title: Testing the strength and direction of selection on vocal frequency using metabolic scaling theory
 subtitle: ''
-summary: 'First, we demonstrate that MTE predicts the relationship between the natural log of body size and natural log of vocal frequency across 795 bird species, controlling for phylogeny...'
+summary: 'First, we demonstrate that Metabolic Theory of Ecology predicts the relationship between the natural log of body size and natural log of vocal frequency across 795 bird species, controlling for phylogeny...'
 authors:
 - Clinton D. Francis
 - Matthew R. Wilkins
@@ -47,7 +47,7 @@ abstract: A major challenge for studies assessing drivers of phenotypic divergen
 publication: '*Ecosphere*'
 url_pdf: https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.3733
 url_video:
-url_dataset:
+url_dataset: https://figshare.com/articles/dataset/_/14977638
 doi: https://doi.org/10.1002/ecs2.3733
 ---
 
