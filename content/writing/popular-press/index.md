@@ -1,6 +1,6 @@
 ---
 title: Popular Press
-summary: I have more stuff in the works. Stay tuned.
+summary: My efforts to inform and engage the public in research and education topics.
 tags:
 #- popular press
 date: "2021-08-22"
@@ -33,4 +33,4 @@ url_video: ""
 
 
 ---
-I have some more stuff in the works related to my songbird research and K-12 education. Stay tuned.
+I am very passionate about finding ways to make complex problems feel personal and approachable. I intend to shift a lot more of my energy toward writing for the broader public going forward.

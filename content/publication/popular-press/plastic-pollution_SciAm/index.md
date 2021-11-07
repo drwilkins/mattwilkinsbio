@@ -7,7 +7,7 @@ date: "2018-07-06"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-23"
+publishDate: "2018-07-06"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +25,7 @@ abstract: My article on the Scientific American Observations blog describing the
 summary:
 
 tags:
-- popular press
+- plastic pollution
 featured: false
 
 links:

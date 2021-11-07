@@ -19,7 +19,7 @@ bio: I'm striving to connect grade 5-12 classrooms to the world of Academia in a
 # Interests to show in About widget
 interests:
 - Interdisciplinary learning
-- Teaching through storytelling
+- Teaching with stories
 - Building empathy through data literacy (data empathy)
 
 # Education to show in About widget
@@ -57,7 +57,7 @@ social:
   link: https://www.linkedin.com/in/mattwilkinsphd/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -70,14 +70,15 @@ social:
 highlight_name: false
 ---
 
-I grew up in Huntsville, AL and now live in Nashville, TN. My motivation to found [Galactic Polymath Education Studio (GP)](https://galacticpolymath.com) was born from years of frustration as a graduate student and postdoctoral scholar trying to make academic knowledge available to the public. I tried a lot of outreach formats—I wrote fieldwork blogs, started and ran the Lincoln, Nebraska chapter of Nerd Nite for over a year, gave guest lectures at public science outreach events, and founded the [No Coast SciComm conference at the University of Nebraska](http://www.scicommcon.org/). Though I personally had a lot of fun and gained a lot from these experiences, it became clear that I was mostly connecting with folks who were already pretty science-engaged. 
+I grew up in Huntsville, AL and now live in Nashville, TN. My motivation to found [Galactic Polymath Education Studio (GP)](https://galacticpolymath.com) was born from years of frustration as a graduate student and postdoctoral scholar trying to make academic knowledge available to the public. I tried a lot of outreach formats—I wrote fieldwork blogs, started and ran the Lincoln, Nebraska chapter of Nerd Nite for over a year, gave guest lectures at public science outreach events, and founded the [No Coast SciComm conference at the University of Nebraska](http://www.scicommcon.org/). Though I personally had a lot of fun and gained a lot from these experiences, it became clear that I was mostly connecting with folks who were already pretty science-engaged.
 
 Galactic Polymath is an effort to break out of the bubble and to build long-term capacity to mobilize knowledge that is increasingly trapped and commodified in pay-walled academic journals that the broader public can't access or understand. GP is built around the idea that:
-1. Publicly-funded research findings should be made available *to everyone for free*, and in a way that's relevant to people's lives. 
-2. *Every student has a right to high quality education materials.* 
+1. Publicly-funded research findings should be made available *to everyone for free*, and in a way that's relevant to people's lives.
+2. *Every student has a right to high quality education materials.*
 
-I want to live in a world where critical thinking and curiosity are as essential as breathing. I also love creative writing, cooking, and making people laugh.
+I want to live in a world where critical thinking and curiosity are as essential as breathing. I love creative writing, cooking, and making people laugh.
+
+Also supremely lucky to be married to the incredible biologist, data scientist, and all-around wit: [Emily J. Hudson, PhD](https://ejhudson.netlify.app/).
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "https://docs.google.com/document/d/1Ia35Iy5Pu1e4D0IJ6SdUMuJaomY-h8yEMPtR-UWV1oM/preview" "newtab" >}}My full CV{{< /staticref >}}
-
