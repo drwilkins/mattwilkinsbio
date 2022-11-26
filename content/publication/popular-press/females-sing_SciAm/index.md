@@ -26,8 +26,10 @@ abstract: "I wrote this piece with Lauryn Benedict, PhD to draw attention to our
 summary:
 
 tags:
+- barn swallows
+- birdsong
 - education
-- media literacy
+- Galactic Polymath
 featured: false
 
 links:
